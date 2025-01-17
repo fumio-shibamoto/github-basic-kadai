@@ -1,2 +1,2 @@
 # github-basic-kadai
-GitHubで課題の提出をしてみよう
+GitHub課題用
